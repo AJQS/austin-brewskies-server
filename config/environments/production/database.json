@@ -13,8 +13,8 @@
         "password": "Threetwowon22"
       },
       "options": {
-        "ssl": "${process.env.DATABASE_SSL || false}",
-        "authenticationDatabase": "${process.env.DATABASE_AUTHENTICATION_DATABASE || ''}"
+        "authenticationDatabase": "brewhaha",
+        "ssl": false
       }
     }
   }
